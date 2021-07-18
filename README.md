@@ -1,4 +1,4 @@
-# vba_json_parse
+# VBA JSON parse
 This project idea came from a task I have recently had where I had to work with JSON data in Excel VBA.
 
 Normally I would handle a task like this with Python that makes JSON data very easy to work with, but in this case I only had access to VBA.
